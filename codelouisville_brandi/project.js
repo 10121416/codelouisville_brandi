@@ -3,7 +3,6 @@
 
 </script>
 
-
 /* I can not get my Java Script functioning. 
 I have read, watched and researched and still it will not work.
 I even went so far as to copy something straight from a treehouse video and still it does not work.
